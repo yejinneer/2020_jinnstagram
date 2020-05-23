@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439767603501",
+    "firebase_url": "https://jinnstagram-c3355.firebaseio.com",
+    "project_id": "jinnstagram-c3355",
+    "storage_bucket": "jinnstagram-c3355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439767603501:android:4640f4b55f2a81d4695ba4",
+        "android_client_info": {
+          "package_name": "com.example.jinnstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439767603501-pb35nel7pj3rto83347ucjopvr7k3rfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jinnstagram",
+            "certificate_hash": "691bc7ca915a17863829719aa288d85aec8836f4"
+          }
+        },
+        {
+          "client_id": "439767603501-1m2c40akpv2rbce464rj0tm1tcl6433t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0aTqyV-TJXj19wuqvQ8Zq4D6K0J0h_6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439767603501-1m2c40akpv2rbce464rj0tm1tcl6433t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
